@@ -1,7 +1,7 @@
 # Design-an-DC-to-AC-inverter-circuit-using-Eagle-software
 ## 212224230207
 ## PRAVEEN RAJ.R
-## Exp 2: Design an DC to AC inverter circuit using Eagle software
+## Exp 2: Design an DC to AC inverter circuit using Eagle software 
 # AIM:
 To design the schematic and PCB layout diagram of a DC to AC inverter circuit using Eagle software.
 # EQUIPMENT REQUIRED:
